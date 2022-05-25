@@ -3,4 +3,5 @@
 Trivia quiz app.
 
 Model-View-Controller or MVC pattern for app development.
-![B1393EEC-E9CD-4530-8EA3-C7DCDD2CA5C6](https://user-images.githubusercontent.com/75540250/170266341-8afc928f-7bf7-45dd-956b-95d6e6b33d4f.jpeg)
+
+![C909F55A-4020-402D-9A84-BB0ADE9CD803](https://user-images.githubusercontent.com/75540250/170374835-ebc58a1a-4675-42f7-a46d-ff5884d36c5c.jpeg)
